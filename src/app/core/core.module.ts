@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { HeaderService } from './header.service';
+import { HeaderService } from '../components/header.service';
 
 @NgModule({
   imports: [
